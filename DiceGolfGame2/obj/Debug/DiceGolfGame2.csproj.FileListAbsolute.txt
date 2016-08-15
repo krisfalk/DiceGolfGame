@@ -1,0 +1,6 @@
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\DiceGolfGame2\DiceGolfGame2\bin\Debug\DiceGolfGame2.exe.config
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\DiceGolfGame2\DiceGolfGame2\bin\Debug\DiceGolfGame2.exe
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\DiceGolfGame2\DiceGolfGame2\bin\Debug\DiceGolfGame2.pdb
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\DiceGolfGame2\DiceGolfGame2\obj\Debug\DiceGolfGame2.csprojResolveAssemblyReference.cache
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\DiceGolfGame2\DiceGolfGame2\obj\Debug\DiceGolfGame2.exe
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\DiceGolfGame2\DiceGolfGame2\obj\Debug\DiceGolfGame2.pdb
